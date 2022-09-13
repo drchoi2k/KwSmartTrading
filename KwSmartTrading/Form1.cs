@@ -14,7 +14,7 @@ namespace KwSmartTrading
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent();   //처음
         }
     }
 }
